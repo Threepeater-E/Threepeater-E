@@ -1,6 +1,6 @@
 - 👋 Hello everyone, I’m @Threepeater-E, a university freshman
 - 🌱 I’m currently learning C Language Programming in university.
-- ⚡ Fun fact: I learn English through these...
+- ⚡ Fun fact: I learn English through these codes...
 
 <!---
 Threepeater-E/Threepeater-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
