@@ -1,4 +1,4 @@
-- 👋 Hello everyone, I’m @Threepeater-E, a university freshman
+- 👋 Hello everyone, I’m Eliott Bronte, a university freshman
 - 🌱 I’m currently learning C Language Programming in university.
 - ⚡ Fun fact: I learn English through these codes...
 
